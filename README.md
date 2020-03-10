@@ -1,10 +1,7 @@
 # CANADIAN-AI-2020
-This repository contains the replication package for "Predicting the Number of Reported Bugs in a Software Repository" by X, Y, Z. 
+This repository contains the replication package for "Predicting the Number of Reported Bugs in a Software Repository" by Hadi Jahanshahi, Mucahit Cevik, and Ayse Basar. 
 
-Maintained by: X (X@X.X)
-
-The name of authors will be publicly available when the decision on the paper is made. 
-
+Maintained by: Hadi Jahanshahi (hadijahanshahi [at] gmail [dot] com)
 
 # Required tools and packages
 
